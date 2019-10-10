@@ -1,0 +1,5 @@
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Calculations\bin\Debug\Calculations.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Calculations\bin\Debug\Calculations.pdb
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Calculations\obj\Debug\Calculations.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Calculations\obj\Debug\Calculations.pdb

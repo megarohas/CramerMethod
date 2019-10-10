@@ -1,0 +1,10 @@
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Methods_02.exe.config
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Methods_02.exe
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Methods_02.pdb
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Calculations.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Visual Interface.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Calculations.pdb
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\bin\Debug\Visual Interface.pdb
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\obj\Debug\Methods_02.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\obj\Debug\Methods_02.exe
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Methods_02\obj\Debug\Methods_02.pdb

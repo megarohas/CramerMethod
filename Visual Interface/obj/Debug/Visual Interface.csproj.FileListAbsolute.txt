@@ -1,0 +1,5 @@
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Visual Interface\bin\Debug\Visual Interface.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Visual Interface\bin\Debug\Visual Interface.pdb
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Visual Interface\obj\Debug\Visual Interface.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Visual Interface\obj\Debug\Visual Interface.dll
+C:\Users\rohas\Desktop\Хлам 2.0\шлак.универ\C#\Methods_02\Visual Interface\obj\Debug\Visual Interface.pdb
